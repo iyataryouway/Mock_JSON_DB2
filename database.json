@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "iyataryouway",
+      "first_name": "Iya",
+      "email": "ita@gmail.com"
+    },
+    {
+      "id": 2,
+      "username": "abauser",
+      "first_name": "AbaData",
+      "email": "iyat@abadata.ca"
+    },
+    {
+      "id": 3,
+      "username": "abauser",
+      "first_name": "sss",
+      "email": "iya@gmail.com"
+    }
+  ]
+}
